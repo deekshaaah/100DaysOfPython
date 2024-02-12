@@ -1,4 +1,4 @@
-# kaun banega crorepati 
+# kaun banega crorepati!
 
 name = input("Enter your name : ")
 print("Hey!", name, ". Are you ready to play KBC?")
